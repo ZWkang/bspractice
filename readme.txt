@@ -1,4 +1,2 @@
-BOOTSTRAP practice
-==================
-Use bootstrap to make a enterprise website
-------------------------------------------
+#BOOTSTRAP practice
+###Use bootstrap to make a enterprise website
